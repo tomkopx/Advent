@@ -1,10 +1,10 @@
 using System;
 
-namespace D1P1
+namespace Advent
 {
   class D1P1
   {
-    static void Main()
+    public static void d1p1()
     {
       int answer = 0;
       int iterator = 0;
