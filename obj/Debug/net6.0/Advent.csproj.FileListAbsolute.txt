@@ -1,0 +1,15 @@
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\Advent.exe
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\Advent.deps.json
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\Advent.runtimeconfig.json
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\Advent.dll
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\ref\Advent.dll
+C:\Users\mindl\Documents\GitHub\Advent\bin\Debug\net6.0\Advent.pdb
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.csproj.AssemblyReference.cache
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.AssemblyInfoInputs.cache
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.AssemblyInfo.cs
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.csproj.CoreCompileInputs.cache
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.dll
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\ref\Advent.dll
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.pdb
+C:\Users\mindl\Documents\GitHub\Advent\obj\Debug\net6.0\Advent.genruntimeconfig.cache
